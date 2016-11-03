@@ -1,21 +1,21 @@
-Name: wildfly
-Cartridge-Short-Name: WILDFLY
-Display-Name: WildFly Application Server 10
+Name: portal-wildfly
+Cartridge-Short-Name: PORTAL-WILDFLY
+Display-Name: Liferay Portal based on WildFly Application Server 10
 Description: "The leading open source Java EE7 application server for enterprise Java applications. Popular development frameworks include CDI, DeltaSpike and Spring."
-Version: '10'
+Version: '1'
 Source-Url: https://github.com/openshift-cartridges/openshift-wildfly-cartridge/archive/wildfly-10.zip
 License: LGPL
 License-Url: http://www.gnu.org/copyleft/lesser.txt
 Vendor: JBoss
-Cartridge-Version: '0.2.3'
-Cartridge-Vendor: jboss
+Cartridge-Version: '0.1'
+Cartridge-Vendor: maucel89
 Categories:
   - service
   - web_framework
   - java
   - wildfly
   - java_ee_7
-Website: http://www.wildfly.org
+Website: http://www.maucel89.it
 Help-Topics:
   "Developer Center": https://www.openshift.com/developers
 Cart-Data:
